@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @m-a-y-a-n-k
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning how to build a sleak UX
+- 👀 I’m interested in Frontend Web Software Development
+- 🌱 I’m currently learning how to build scalable , robust and performant web apps.
 - 💞️ I’m looking to collaborate on some fun projects
 - 📫 How to reach me mayankn07.work@gmail.com
 
