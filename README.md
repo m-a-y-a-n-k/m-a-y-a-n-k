@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 
 Checkout my roadmap.sh card below,
 
-[![roadmap.sh](https://roadmap.sh/card/tall/66b38ff9e70e3d56228df87b?variant=dark&roadmaps=frontend)](https://roadmap.sh)
+[![roadmap.sh](https://roadmap.sh/card/wide/66b38ff9e70e3d56228df87b?variant=dark&roadmaps=frontend)](https://roadmap.sh)
