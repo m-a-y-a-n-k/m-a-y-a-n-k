@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @m-a-y-a-n-k
-- 👀 I’m interested in Frontend Web Software Development
+- 👀 I’m interested in Fullstack Web Software Development
 - 🌱 I’m currently learning how to build scalable , robust and performant web apps.
 - 💞️ I’m looking to collaborate on some fun projects
 - 📫 How to reach me mayankn07.work@gmail.com
